@@ -2,7 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691d4660-cbdf-4440-a48c-b238cdb79c33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/domaine/src/main/java/com/djallil/ems/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domaine/src/main/java/com/djallil/ems/model/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/djallil/ems/repository/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/djallil/ems/repository/OfficesDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/djallil/ems/services/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/djallil/ems/services/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/djallil/ems/controller/EmployeeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webApplication/webApplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72d405ee8d7a5244de7e33a1eb206d07f63ea85d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domaine" beforeDir="false" afterPath="$PROJECT_DIR$/domaine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domaine/domaine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/domaine/domaine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domaine/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/domaine/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email" beforeDir="false" afterPath="$PROJECT_DIR$/email" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email/email.iml" beforeDir="false" afterPath="$PROJECT_DIR$/email/email.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/email/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/employeeSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository" beforeDir="false" afterPath="$PROJECT_DIR$/repository" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service" beforeDir="false" afterPath="$PROJECT_DIR$/service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/controller.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApplication/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webApplication/src/test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webApplication/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +56,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webApplication" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Lenovo\IdeaProjects\employeeSystem\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,7 +88,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1VkpDxYwZljOTMrT5lorGOklsIo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,17 +98,43 @@
     <option name="showURL" value="false" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/web/src/main/java/com/djallil/ems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/repository/src/main/resources" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="npm.Angular CLI Server (untitled)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\employeeSystem\web\src\main\resources" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\employeeSystem\web\src\main\resources\com\djallil\ems" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.djallil.ems.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\employeeSystem\repository\src\main\resources" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\employeeSystem\web\src\main\resources" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\employeeSystem\domaine\src\main\java\com\djallil\ems\model" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\employeeSystem\service\src\main\java\com\djallil\ems\services" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\employeeSystem\repository\src\main\java\com\djallil\ems\repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EMSApplication">
     <configuration name="E2E Tests (untitled)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/untitled/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
@@ -51,6 +146,19 @@
     <configuration name="Angular Application (untitled)" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
+    <configuration name="EMSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.djallil.ems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.djallil.ems.EMSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Angular CLI Server (untitled)" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/untitled/package.json" />
       <command value="run" />
@@ -61,6 +169,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EMSApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -86,6 +199,9 @@
       <updated>1577806831765</updated>
       <workItem from="1577806835778" duration="35000" />
       <workItem from="1577806911891" duration="711000" />
+      <workItem from="1577807659678" duration="1295000" />
+      <workItem from="1577809122022" duration="1254000" />
+      <workItem from="1577810425997" duration="2228000" />
     </task>
     <servers />
   </component>
@@ -100,16 +216,85 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/untitled" />
+      <path value="$PROJECT_DIR$/controller" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1829" y="166" key="SettingsEditor" timestamp="1577807556538">
+    <state x="1918" y="182" key="#Assign_Data_Sources" timestamp="1577811425669">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1829" y="166" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577807556538" />
+    <state x="1918" y="182" key="#Assign_Data_Sources/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577811425669" />
+    <state x="1918" y="182" key="#Project_Structure" timestamp="1577811049709">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="182" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577811049709" />
+    <state x="1918" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577808201065">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577808201065" />
+    <state x="2131" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1577809016127">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2131" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577809016127" />
+    <state x="2056" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577812421903">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2056" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812421903" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1577812658624">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658624" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1577812658624">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658624" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1577812658624">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658624" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1577812658624">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658624" />
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom" timestamp="1577812658625">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658625" />
+    <state width="1877" height="274" key="GridCell.Tab.1.center" timestamp="1577812658625">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658625" />
+    <state width="1877" height="274" key="GridCell.Tab.1.left" timestamp="1577812658625">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658625" />
+    <state width="1877" height="274" key="GridCell.Tab.1.right" timestamp="1577812658625">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577812658625" />
+    <state x="1856" y="178" key="Maven.ArtifactSearchDialog" timestamp="1577809456844">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1856" y="178" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577809456844" />
+    <state x="1829" y="166" key="SettingsEditor" timestamp="1577810309372">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1829" y="166" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577810309372" />
+    <state x="2142" y="301" key="chooseDestDirectoryDialog" timestamp="1577810510212">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2142" y="301" key="chooseDestDirectoryDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577810510212" />
     <state x="1708" y="228" key="new project wizard" timestamp="1577807229821">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1708" y="228" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577807229821" />
+    <state x="1982" y="240" key="run.anything.popup" timestamp="1577811133351">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="240" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577811133351" />
+    <state x="1982" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1577811307379">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1577811307379" />
   </component>
 </project>

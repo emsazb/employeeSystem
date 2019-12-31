@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/domaine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/webApplication" vcs="Git" />
   </component>
 </project>
