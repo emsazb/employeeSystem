@@ -5,7 +5,6 @@ spring:
     config:
       server:
         git:
-          clone-on-start: true
           uri: https://github.com/EmsDjallil/EmsConfigurations.git
           username: mugiwaradz
           password: equilibriom6A
