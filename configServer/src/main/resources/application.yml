@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/EmsDjallil/EmsConfigurations
+          uri: https://github.com/emsazb/configurations
           username: mugiwaradz
           password: equilibriom6A
 #  security:
