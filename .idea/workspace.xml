@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="691d4660-cbdf-4440-a48c-b238cdb79c33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="691d4660-cbdf-4440-a48c-b238cdb79c33" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/djallil/ems/EMSApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/djallil/ems/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/META-INF/web.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/djallil/ems/EMSApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/djallil/ems/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +165,7 @@
       <workItem from="1577807659678" duration="1295000" />
       <workItem from="1577809122022" duration="1254000" />
       <workItem from="1577810425997" duration="2943000" />
+      <workItem from="1577872691415" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1577812721617</created>
